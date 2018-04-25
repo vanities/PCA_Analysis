@@ -4,11 +4,11 @@ Principle Component Analysis of the Iris and Cancer data set
 Check out
 > MNIST_Iris.ipynb
 
-to see the Principle Component 1 and 2 of the Iris data set 
+to see the Principle Component 1 and 2 of the Iris data set<br>
 ![iris data set](https://github.com/vanities/PCA_Analysis/blob/master/images/iris.png)
 
 
-and the MNIST cluster data set 
+and the MNIST cluster data set<br>
 ![MNIST data set](https://github.com/vanities/PCA_Analysis/blob/master/images/mnist.png)
 
 
@@ -16,9 +16,9 @@ Check out
 > cancer.ipynb
 
 
-to see a boolean Wisconsim Data Breast Cancer set 
+to see a boolean Wisconsim Data Breast Cancer set<br>
 ![WDBC data set](https://github.com/vanities/PCA_Analysis/blob/master/images/WDBC.png)
 
 
-and a multicomponent Wisconsim Data Breast Cancer set
+and a multicomponent Wisconsim Data Breast Cancer set<br>
 ![WDBC2 data set](https://github.com/vanities/PCA_Analysis/blob/master/images/WDBC2.png)
